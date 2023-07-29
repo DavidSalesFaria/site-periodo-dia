@@ -5,13 +5,12 @@ body{
 header{
     color: white;
     text-align: center;  /*Alinhamento de texto: centro*/
-    font-size: 13pt;
 }
 section{
     background: white;
     border-radius: 10px;  /*Arredondamento das bordas*/
     padding: 15px;  /*Espaçamento interno*/
-    max-width: 400px; /*Precisei usar max-width no lugar de width (largura)*/
+    max-width: 500px; /*Precisei usar max-width no lugar de width (largura)*/
     margin: auto;  /*Espaçamento externo*/
     /*desloc. lateral desloc. vertical espalhamento cor*/
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.726); /*sombra*/
@@ -20,18 +19,12 @@ footer{
     color: white;
     text-align: center;  /*Alinhamento de texto: centro*/
     font: italic;  /*Fonte italico*/
-    font-size: 7pt;
 }
 
-img#imagem{
-    width: 150px;
-}
 
 div {
     text-align: center;
     padding: 8px;
 }
 
-div#msg {
-    font-size: 10pt;
-}
+
