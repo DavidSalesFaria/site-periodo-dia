@@ -5,7 +5,7 @@ function temaManha(){
     img.src = "imagens/foto-manha.png"
     // Altera o período para AM 
     periodo = "AM"
-    window.document.body.style.background = "#feeacd"
+    window.document.body.style.background = "#eebc88"
 }
 function temaTarde(){
     // Obtem a imagem pelo id
